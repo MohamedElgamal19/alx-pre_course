@@ -1,1 +1,2 @@
-redame for 0x01-git
+Hello, Git
+second line added in README.md
